@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sim Card</string>
+    <string name="add_data">Add Data</string>
+    <string name="gb">GB</string>
+    <string name="_20_gb">20 GB</string>
+    <string name="_15_gb">15 GB</string>
+    <string name="_10_gb">10 GB</string>
+    <string name="_5_2_gb">5.2 GB</string>
+    <string name="data">Data</string>
+    <string name="wifi">WiFi</string>
+    <string name="menu">Menu</string>
+    <string name="go_to_network">Go to network</string>
+    <string name="open_network">Open network, %1$s</string>
+    <string name="often_works">Often works, %1$s</string>
+    <string name="sweden">Sweden</string>
+    <string name="amplify_your_connectivity">Amplify your\nconnectivity</string>
+    <string name="continue_40_00_kr">Continue - 40,00 KR</string>
+    <string name="network">Network</string>
+    <string name="plan_type">Plan type</string>
+    <string name="vodafone">Vodafone</string>
+    <string name="data_only">Data only</string>
+</resources>
