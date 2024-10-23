@@ -8,11 +8,5 @@
 - **Google Maps Integration**: Displays WiFi locations on an interactive map.
 - **Jetpack Compose**: Enables the creation of dynamic and responsive UIs with less boilerplate code.
 
-- ## What Has Been Implemented
-
-- Two key features as outlined in the assignment.
-- Basic navigation is handled.
-- Integration with Google Maps to display WiFi locations.
-- Core UI components using Jetpack Compose and Material3.
-- Handling user permissions.
+<img src="https://github.com/ymatinfard/SimCard/blob/develop-new/screen-record/SimCard.gif" width="300" height="600"/>
 
